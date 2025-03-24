@@ -2346,6 +2346,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Vinoth Kannan</b></sub>
             </a>
         </td>        
+            <td align="center">
+            <a href="https://github.com/soumyajit1010">
+                <img src="https://avatars.githubusercontent.com/u/174983221?v=4" width="100px;" alt="Soumyajit Rout"/>
+                <br />
+                <sub><b>Soumyajit Rout</b></sub>
+            </a>
+        </td>        
         </tr>
     </tbody>
 </table>
